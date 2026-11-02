@@ -2,12 +2,6 @@
 
 An Augmented Reality (AR) project developed using **Unity**, featuring an interactive Charizard experience in the real world.
 
-## 📱 Project Preview
-
-<p align="center">
-  <img src="images/preview.png" width="700" alt="Charizard AR Preview">
-</p>
-
 ## ✨ Features
 
 - 📷 Image Tracking – Detects a target image using the device camera.
